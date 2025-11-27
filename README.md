@@ -21,8 +21,7 @@ Easily extends into segmentation, forecasting, or mobility analytics
 This repository is designed so that even non-technical users can maintain updated national statistics without breaking anything.
 
 📂 Project Structure
-
-bahrain_stats_agent/
+   bahrain_stats_agent/
 │
 ├── bahrain_agent/
 │   ├── agent.py               # Core reasoning engine
